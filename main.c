@@ -13,6 +13,7 @@ int main(void)
 }
 int fun1(int arr[])
 {
+printf("fun1 is started");
  int i;
  for(i=0;i<4;i++)
  {
